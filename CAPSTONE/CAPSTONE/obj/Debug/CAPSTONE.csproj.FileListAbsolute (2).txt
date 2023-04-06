@@ -1,0 +1,74 @@
+C:\Users\NP545923\source\repos\G39237\G39237\bin\Debug\G39237.exe.config
+C:\Users\NP545923\source\repos\G39237\G39237\bin\Debug\G39237.exe
+C:\Users\NP545923\source\repos\G39237\G39237\bin\Debug\G39237.pdb
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.csprojAssemblyReference.cache
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPrincipal.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Properties.Resources.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.csproj.GenerateResource.cache
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.csproj.CoreCompileInputs.cache
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.exe
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.pdb
+C:\Users\NP545923\source\repos\G39237\G39237\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.csproj.CopyComplete
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmLogin.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPaciente.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmHome.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmMedico.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSede.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmVacuna.resources
+C:\Users\NP545923\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmAtencion.resources
+C:\Users\NP545923\Downloads\G39237\G39237\bin\Debug\G39237.exe.config
+C:\Users\NP545923\Downloads\G39237\G39237\bin\Debug\G39237.exe
+C:\Users\NP545923\Downloads\G39237\G39237\bin\Debug\G39237.pdb
+C:\Users\NP545923\Downloads\G39237\G39237\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmAtencion.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmHome.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmLogin.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmMedico.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPaciente.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPrincipal.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSede.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmVacuna.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Properties.Resources.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.csproj.GenerateResource.cache
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.csproj.CoreCompileInputs.cache
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.csproj.CopyComplete
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.exe
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.pdb
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.csprojAssemblyReference.cache
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\bin\Debug\G39237.exe.config
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\bin\Debug\G39237.exe
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\bin\Debug\G39237.pdb
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.csprojAssemblyReference.cache
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmAtencion.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmHome.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmLogin.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmMedico.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPaciente.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPrincipal.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSede.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Presentacion.FrmVacuna.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.Properties.Resources.resources
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.csproj.GenerateResource.cache
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.csproj.CoreCompileInputs.cache
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.csproj.CopyComplete
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.exe
+C:\Users\NP545923\Downloads\Otros\UPN\G39237\G39237\obj\Debug\G39237.pdb
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSearchPaciente.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSearchMedico.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSearchSede.resources
+C:\Users\NP545923\Downloads\G39237\G39237\obj\Debug\G39237.Presentacion.FrmSearchVacuna.resources
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.csproj.AssemblyReference.cache
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmLogin.resources
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.Presentacion.FrmPrincipal.resources
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.Properties.Resources.resources
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.csproj.GenerateResource.cache
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.csproj.CoreCompileInputs.cache
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.exe
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.pdb
+C:\Users\Harold Coronado\source\repos\G39237\G39237\bin\Debug\G39237.exe.config
+C:\Users\Harold Coronado\source\repos\G39237\G39237\bin\Debug\G39237.exe
+C:\Users\Harold Coronado\source\repos\G39237\G39237\bin\Debug\G39237.pdb
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.csproj.CopyComplete
+C:\Users\Harold Coronado\source\repos\G39237\G39237\obj\Debug\G39237.FrmUsuario.resources
