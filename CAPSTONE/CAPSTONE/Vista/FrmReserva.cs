@@ -13,6 +13,7 @@ namespace CAPSTONE.Vista
         private void btnsearchcliente_Click(object sender, EventArgs e)
         {
 
+
         }
     }
 }
